@@ -1,0 +1,6 @@
+:root{
+    --ui-background: rgba(0, 0, 0, 0.45);
+    --key-background: rgba(255, 255, 255, 0.05);
+    --key-border: rgba(255, 255, 255, 0.05);
+    --text-shadow: rgba(0, 0, 0, 0.25);
+}
