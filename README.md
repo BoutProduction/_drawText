@@ -7,4 +7,4 @@
 
 > **Links**<br>
 > Showcase: **[\**Click me**](https://streamable.com/lj3hec)**<br>
-> Cfx.re Thread: **[\**Click me**](https://forum.cfx.re/t/release-esx-lv-headlights-change-the-headlights-colour/784408)**
+> Cfx.re Thread: **[\**Click me**](https://forum.cfx.re/t/standalone-drawtext-an-simple-but-clean-drawtext/5242985)**
